@@ -6,7 +6,7 @@ I enjoy designing RESTful APIs, working with clean architecture patterns, and co
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Backend:** Java (Spring Boot), .NET 9
 - **Architecture:** Layered Architecture, Clean Code Principles
@@ -18,9 +18,9 @@ I enjoy designing RESTful APIs, working with clean architecture patterns, and co
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💰 Personal Finance Tracker (Spring Boot)
+### Personal Finance Tracker (Spring Boot)
 A REST API for managing personal finances.
 
 - Multi-account system with deposit/withdraw operations
@@ -31,7 +31,7 @@ A REST API for managing personal finances.
 
 ---
 
-### 🏋️ FitForma V2 (.NET Core)
+### FitForma V2 (.NET Core)
 A backend fitness management system for workouts, nutrition, and biometric tracking.
 
 - Structured workout routine management
@@ -42,7 +42,7 @@ A backend fitness management system for workouts, nutrition, and biometric track
 
 ---
 
-## 🧠 What I’m Focused On
+## What I’m Focused On
 
 - Building secure backend systems (ownership validation, RBAC)
 - Improving REST API design and consistency
@@ -52,7 +52,7 @@ A backend fitness management system for workouts, nutrition, and biometric track
 
 ---
 
-## 📌 Goals
+## Goals
 
 - Become a strong backend engineer in enterprise systems
 - Master system design and scalable architectures
@@ -61,6 +61,6 @@ A backend fitness management system for workouts, nutrition, and biometric track
 
 ---
 
-## 📫 Connect
+## Connect
 
 - GitHub: [github.com/yara1611](https://github.com/yara1611)
