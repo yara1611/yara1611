@@ -9,12 +9,10 @@ I enjoy designing RESTful APIs, working with clean architecture patterns, and co
 ## Tech Stack
 
 - **Backend:** Java (Spring Boot), .NET 9
-- **Architecture:** Layered Architecture, Clean Code Principles
-- **Security:** JWT Authentication (RBAC in progress)
-- **Databases:** PostgreSQL, SQL Server, H2
-- **ORMs:** Entity Framework Core, JPA/Hibernate
+- **Security:** JWT Authentication
+- **Databases:** PostgreSQL, Microsoft SQL Server, H2
 - **API Design:** RESTful APIs, Swagger/OpenAPI
-- **Tools:** Git, Maven, Docker (learning)
+- **Tools:** Git, Maven, Docker
 
 ---
 
