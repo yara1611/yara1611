@@ -64,3 +64,4 @@ A backend fitness management system for workouts, nutrition, and biometric track
 ## Connect
 
 - GitHub: [github.com/yara1611](https://github.com/yara1611)
+- LinkedIn: [linkedin.com/in/yara-desoky-89246623b] (https://www.linkedin.com/in/yara-desoky-89246623b)
